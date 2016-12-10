@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">P6</string>
+
+    <string name="tvOrderForm">Order Form -Curry Rice</string>
+
+    <string name="Price">$8.00 per each</string>
+
+    <string name="tvRice">amount of rice</string>
+
+    <string name="tvSpice">spicy level</string>
+    <string name="low">low</string>
+    <string name="mid">mid</string>
+    <string name="high">high</string>
+
+    <string name="tvToppings">toppings</string>
+    <string name="natto">natto</string>
+    <string name="spinach">spinach</string>
+    <string name="tuna">tuna</string>
+    <string name="cheese">cheese</string>
+
+    <string name="tvSpoon">Do you need spoons?</string>
+
+    <string name="tvQuantity">quantity</string>
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string name="tvFirstName">First Name</string>
+    <string name="etHintFistName">First Name</string>
+
+    <string name="tvLastName">Last Name</string>
+    <string name="etHintLastName">Last Name</string>
+
+    <string name="tvStore">Store Location</string>
+    <string-array name="store_names">
+        <item>Minneapolis</item>
+        <item>Saint Paul</item>
+        <item>St. Cloud</item>
+        <item>Apple Valley</item>
+        <item>St. Louis Park</item>
+        <item>Moorhead</item>
+        <item>Shakopee</item>
+        <item>Richfield</item>
+    </string-array>
+
+    <string name="tvOrderTiming">Order Timing</string>
+    <string name="tvDate">date</string>
+
+    <string name="tvRequest">Do you have any requests?</string>
+
+    <string name="btnSubmit">Submit</string>
+
+    <string name="btnClear">Clear</string>
+
+    <string name="tvTax">tax</string>
+
+    <string name="tvTotal">total(tax included)</string>
+
+</resources>
